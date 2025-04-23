@@ -1,0 +1,2 @@
+[jenkins]
+51.20.136.114 ansible_user=ubuntu ansible_ssh_private_key_file=/Users/manayapachpor/Desktop/Devops_VLE6/terraform/labexp6.pem
